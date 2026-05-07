@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "au-poc-logto",
+  title: "Poc Logto",
   description: "POC Logto",
 };
 
